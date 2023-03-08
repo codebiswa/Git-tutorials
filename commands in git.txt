@@ -1,0 +1,17 @@
+1. git status (check if anything has been changed)
+2. git init (initialize git repo in the selected directory)
+3. git config --global user.email "email@sample.com" (set global email)
+4. git config --global user.name "Your Name" (set global name)
+5. git add . (stage all files inside the folder)
+6. git commit -m "any message" (to commit the changes)
+7. git branch -M main (changed default branch name from master to main)
+8. git remote add origin "ssh url" (links local repo to remote repo)
+9. //Generate & add ssh key to github account
+10. git push -u origin main (push files from local repo to remote repo)
+11. git pull origin main (pulls files from remote repo to local repo)
+12. git log (to check activity history)
+13. git branch (check how many branches and their names)
+14. git branch branch-name (create new branch)
+15. git checkout branch-name (go to the newly created branch)
+16. //make some changes in the files inside branch-name
+17. git push origin branch-name (push branch-name to remote repo)
