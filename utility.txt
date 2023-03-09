@@ -1,1 +1,1 @@
-Utility functions are always batter.
+Utility functions.
