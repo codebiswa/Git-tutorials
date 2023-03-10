@@ -12,6 +12,6 @@
 12. git log (to check activity history)
 13. git branch (check how many branches and their names)
 14. git branch branch-name (create new branch)
-15. git checkout branch-name (go to the newly created branch)
-16. //make some changes in the files inside branch-name
-17. git push origin branch-name (push branch-name to remote repo) 
+15. (git diff .) or (git diff filename.extension)
+16. (git diff --staged .) or (git diff --staged filename.extension)  -->when the file get staged
+17. 
